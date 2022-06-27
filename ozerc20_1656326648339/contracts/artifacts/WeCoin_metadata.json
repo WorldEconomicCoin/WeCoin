@@ -341,7 +341,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/WeCoin.sol": "WeCoin"
+			"ozerc20_1656326648339/contracts/WeCoin.sol": "WeCoin"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -387,12 +387,12 @@
 				"dweb:/ipfs/QmRK2Y5Yc6BK7tGKkgsgn3aJEQGi5aakeSPZvS65PV8Xp3"
 			]
 		},
-		"contracts/WeCoin.sol": {
-			"keccak256": "0xd5173d756995962d1f15da61a74f95694af7a17315cc2334ada4eca0c6e214ae",
+		"ozerc20_1656326648339/contracts/WeCoin.sol": {
+			"keccak256": "0x421076b0a75a2bd022112a91cf5b83d774b2c73511d69204c6af15e6066d6fd4",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://b063593b65044f3e8bb8fc4681ce68b073fa56c685799ff87c6b2609681fd111",
-				"dweb:/ipfs/QmWxYzsNjYrgN5BpvWobuHQFQuCzrF3RreRUn39oPAsWDz"
+				"bzz-raw://f180bdc1de366aaca7d5c7bcfede909d7fe6d285439a62a66b4c078c45e19d6c",
+				"dweb:/ipfs/QmSueC1zSPAonBkxr5EVjfaRYuWTBVwrWXCvauNP4MeD86"
 			]
 		}
 	},
