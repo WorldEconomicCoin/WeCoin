@@ -10,6 +10,6 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
  */
 contract WeCoin is ERC20 {
 
-    constructor(string memory tokenName, string memory tokenSymbol) ERC20("WeCoin", "WAC") {}
+    constructor(string memory tokenName, string memory tokenSymbol) ERC20("WeCoin", "WAS") {}
 }
 

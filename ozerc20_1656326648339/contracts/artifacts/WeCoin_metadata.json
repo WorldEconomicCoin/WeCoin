@@ -388,11 +388,11 @@
 			]
 		},
 		"ozerc20_1656326648339/contracts/WeCoin.sol": {
-			"keccak256": "0x421076b0a75a2bd022112a91cf5b83d774b2c73511d69204c6af15e6066d6fd4",
+			"keccak256": "0x7ffd6657454256a13c0c50d9d2771fdb580f13ac4a8806ff900674e155d89060",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://f180bdc1de366aaca7d5c7bcfede909d7fe6d285439a62a66b4c078c45e19d6c",
-				"dweb:/ipfs/QmSueC1zSPAonBkxr5EVjfaRYuWTBVwrWXCvauNP4MeD86"
+				"bzz-raw://0506a49ecef76f0e08da06211f3525797cee9425f84d08a1f35a612472d7fe5a",
+				"dweb:/ipfs/QmfTmezaL7v6UXpMX4YviY4219rcVcLr5589FKfPNjwfCC"
 			]
 		}
 	},
