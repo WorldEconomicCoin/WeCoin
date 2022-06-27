@@ -8,14 +8,9 @@
 			{
 				"inputs": [
 					{
-						"internalType": "string",
-						"name": "tokenName",
-						"type": "string"
-					},
-					{
-						"internalType": "string",
-						"name": "tokenSymbol",
-						"type": "string"
+						"internalType": "uint256",
+						"name": "initialSupply",
+						"type": "uint256"
 					}
 				],
 				"stateMutability": "nonpayable",
@@ -293,7 +288,6 @@
 			}
 		],
 		"devdoc": {
-			"details": "Create a sample ERC20 standard token",
 			"kind": "dev",
 			"methods": {
 				"allowance(address,address)": {
@@ -330,7 +324,6 @@
 					"details": "See {IERC20-transferFrom}. Emits an {Approval} event indicating the updated allowance. This is not required by the EIP. See the note at the beginning of {ERC20}. NOTE: Does not update the allowance if the current allowance is the maximum `uint256`. Requirements: - `from` and `to` cannot be the zero address. - `from` must have a balance of at least `amount`. - the caller must have allowance for ``from``'s tokens of at least `amount`."
 				}
 			},
-			"title": "SampleERC20",
 			"version": 1
 		},
 		"userdoc": {
@@ -341,7 +334,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"ozerc20_1656326648339/contracts/WeCoin.sol": "WeCoin"
+			"WeCoin/contracts/WeCoin.sol": "WeCoin"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -387,12 +380,12 @@
 				"dweb:/ipfs/QmRK2Y5Yc6BK7tGKkgsgn3aJEQGi5aakeSPZvS65PV8Xp3"
 			]
 		},
-		"ozerc20_1656326648339/contracts/WeCoin.sol": {
-			"keccak256": "0x7ffd6657454256a13c0c50d9d2771fdb580f13ac4a8806ff900674e155d89060",
+		"WeCoin/contracts/WeCoin.sol": {
+			"keccak256": "0xeaa7745dc9d1115aad97ffaf2f12af745b125e0bfb06addb416220ba96b5da71",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://0506a49ecef76f0e08da06211f3525797cee9425f84d08a1f35a612472d7fe5a",
-				"dweb:/ipfs/QmfTmezaL7v6UXpMX4YviY4219rcVcLr5589FKfPNjwfCC"
+				"bzz-raw://ace35d0297597a2258bc4cad622dcb4f82445b1393bc5dc8746e54f9979e471b",
+				"dweb:/ipfs/QmVqNNrspzcTW87A2PV7gP2yGmNhRSSQ1RXX94JkFDdPpu"
 			]
 		}
 	},
